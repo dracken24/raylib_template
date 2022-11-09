@@ -22,8 +22,8 @@
 *     3. This notice may not be removed or altered from any source distribution.
 *
 **********************************************************************************************/
+#include "/home/dracken24/Desktop/prog/game_cpp/raylib_template_test/raylib_template/vendor/raylib/src/raylib.h"
 
-#include "raylib.h"
 #include "screens.h"
 
 //----------------------------------------------------------------------------------

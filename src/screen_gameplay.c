@@ -23,7 +23,7 @@
 *
 **********************************************************************************************/
 
-#include "raylib.h"
+#include "/home/dracken24/Desktop/prog/game_cpp/raylib_template_test/raylib_template/vendor/raylib/src/raylib.h"
 #include "screens.h"
 
 //----------------------------------------------------------------------------------
